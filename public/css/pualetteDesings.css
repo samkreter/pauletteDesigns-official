@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #F769FF;
 }
 
 a:hover,
@@ -69,12 +69,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #fed136;
+    border-color: #F769FF;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: #F769FF;
 }
 
 .btn-primary:hover,
@@ -108,12 +108,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #F769FF;
+    background-color: #F769FF;
 }
 
 .btn-primary .badge {
-    color: #fed136;
+    color: #F769FF;
     background-color: #fff;
 }
 
@@ -168,12 +168,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #F769FF;
+    background-color: #F769FF;
 }
 
 .btn-xl .badge {
-    color: #fed136;
+    color: #F769FF;
     background-color: #fff;
 }
 
@@ -375,7 +375,7 @@ section h3.section-subheading {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(254,209,54,.9);
+    background: rgba(247, 105, 255, 0.84);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -501,7 +501,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #F769FF;
 }
 
 .timeline>li .timeline-image h4 {
@@ -688,7 +688,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #F769FF;
     box-shadow: none;
 }
 
@@ -766,7 +766,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    background-color: #F769FF;
 }
 
 .btn:focus,
@@ -854,12 +854,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fed136;
+    background: #F769FF;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #F769FF;
 }
 
 img::selection {
@@ -871,5 +871,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #fed136;
+    webkit-tap-highlight-color: #F769FF;
 }
